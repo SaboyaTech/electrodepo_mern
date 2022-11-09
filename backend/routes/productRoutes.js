@@ -13,7 +13,7 @@ router.get(
 		const products = await Product.find({})
 
 		res.json(products)
-		// console.log(products)
+		console.log(products)
 	})
 )
 

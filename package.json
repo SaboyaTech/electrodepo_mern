@@ -1,10 +1,6 @@
 {
 	"name": "electrodepo_mern",
 	"version": "1.0.0",
-	"enigines": {
-		"node": "16.13.2",
-		"npm": "8.1.2"
-	},
 	"description": "MERN E-comm store app",
 	"main": "server.js",
 	"type": "module",

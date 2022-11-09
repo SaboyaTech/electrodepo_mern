@@ -2,7 +2,7 @@ import express from 'express'
 import dotenv from 'dotenv'
 import connectDB from './config/db.js'
 import productRoutes from './routes/productRoutes.js'
-import { notFound, errorHandler } from './middleware/errorMiddleware.js'
+import {notFound, errorHandler} from './middleware/errorMiddleware.js'
 
 import colors from 'colors'
 
@@ -11,7 +11,7 @@ dotenv.config()
 connectDB()
 
 const app = express()
-const PORT = process.env.PORT || 5001
+const PORT = process.env.PORT || 5000
 
 app.get('/', (req, res) => {
 	res.send('REST API is running...')
