@@ -1,5 +1,5 @@
-# :fire:ElectroDepot - MERN E-commerce Store ⚛️📲 🛒 💰 💳 💻
-
+# :fire:ElectroDepot - MERN E-commerce Store 📲🛒💳💻
+### https://electro-depot-mern.herokuapp.com/
 <img src="https://personal-portfolio-2020.s3.amazonaws.com/electroDepotPreview.gif">
 
 #### Developed By: Jose L Saboya
