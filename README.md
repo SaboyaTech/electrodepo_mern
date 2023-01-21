@@ -1,5 +1,7 @@
 # :fire:ElectroDepot - MERN E-commerce Store 📲🛒💳💻
 
+### https://electro-depot-mern.herokuapp.com/
+
 <img src="https://user-images.githubusercontent.com/16430662/206128114-8e33cd29-ecd8-4afa-949c-29a686092296.png" alt="mobile version of electro-depot" width="180">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://personal-portfolio-2020.s3.amazonaws.com/electroDepotPreview.gif" width="60%">
 
 ### Description:
